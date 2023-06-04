@@ -1,0 +1,41 @@
+{
+    "The :attribute must contain at least one letter.": "The :attribute must contain at least one letter.",
+    "The :attribute must contain at least one number.": "The :attribute must contain at least one number.",
+    "The :attribute must contain at least one symbol.": "The :attribute must contain at least one symbol.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "The :attribute must contain at least one uppercase and one lowercase letter.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
+    "login":"Log In",
+    "logout" : "Logout",
+    "profile" : "Profile",
+    "forgetpass":"Forget Password?",
+    "clickhere": "Click Here",
+    "donthaveacc": "Don't Have Account",
+    "username": "User Name",
+    "password" : "Password",
+    "email" : "Email",
+    "remberme": "Remember me",
+    "retypepass" : "Re-enter Password",
+    "haveacc" : "Alreafy User?",
+    "signup" : "Register",
+    "desc1" : "Save Your notes and important messages safly and secure",
+    "desc2" : "You can access it from any device and from anywhere",
+    "users number" : "Users Number",
+    "notes number" : "Notes Number",
+    "All copyright reserved" : "All copyright reserved",
+    "welcome" : "Welcome",
+    "add new note" : "Add New Note",
+    "Your Notes" : "Your Notes",
+    "delete" : "Delete",
+    "edit" : "Edit", 
+    "link" : "Link",
+    "time" : "Time",
+    "public" : "Public",
+    "private" : "Private",
+    "edit note" : "Edit Note",
+    "title" : "Title",
+    "content" : "Content"
+    
+
+    
+    
+}

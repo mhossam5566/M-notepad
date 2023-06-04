@@ -1,0 +1,158 @@
+*{
+	font-family: 'Acme', sans-serif;
+}
+
+body{
+	
+background-image: url("bg.jpg");
+  Background-size:cover;
+  background-repeat: no-repeat;
+	 background-position: center center;
+	 background-attachment: fixed;
+	 }
+	 
+	 .cnt{
+	
+  margin: 0 auto;
+	margin-top: 100px;
+	width: 300px;
+	height: 450px;
+	background-color: #fff;
+	text-align: center;
+	position: relative;
+	border-radius:0 0px 50px 50px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.29);
+	
+}
+
+.avt{
+border-radius:50%;
+	width: 100px;
+	height: 100px;
+	background-color: #fff;
+	position: absolute;
+	margin-top: -50px;
+	margin-left: 100px;
+	overflow: hidden;
+	
+}
+
+.avp{
+width: 100px;
+margin-top: 6px;
+}
+	 
+.svg{
+	width: 100%;
+	
+}
+	
+h1{
+	margin-top: -35px;
+	color: #1880d8;
+}
+
+.pp{
+	margin-left: -200px;
+	color: #1880d8;
+	margin-bottom: -10px;
+}
+
+
+.usr{
+width: 80%;
+border: none;
+height: 20px;
+border-bottom: 1px solid #1880d8;
+background-image: url(https://img.icons8.com/ios-filled/50/4a90e2/change-user-male.png);
+background-size: 20px;
+background-repeat: no-repeat;
+padding-left: 28px;
+color: #1880d8;
+font-size: 15px;
+
+}
+
+.psw{
+ width: 80%;
+border: none;
+height: 20px;
+border-bottom: 1px solid #1880d8;
+background-image: url(https://img.icons8.com/metro/26/4a90e2/forgot-password.png);
+background-size: 20px;
+background-repeat: no-repeat;
+padding-left: 28px;
+color: #1880d8;
+font-size: 15px;
+margin-bottom: 10px;
+}
+
+::placeholder{
+font-size: 10px;
+	color: #1880d8;
+	opacity: 0.9;
+	}
+
+.lgn{
+font-size: 20px;
+	border: none;
+	background-color: #1880d8;
+	color: #fff;
+	padding: 5px 20px;
+	border-radius: 13px;
+
+}
+
+.lgn:hover{
+	color: #1880d8;
+	background-color: #fff;
+	border:1px solid #1880d8 ;
+	
+}
+
+hr{
+	margin-top: 20px;
+}
+
+.ftr{
+	color: #1880d8;
+	font-size: 13px;
+
+}
+
+.ftr a{
+	text-decoration: none;
+	color: gray;
+}
+
+.err{
+background-image: url("3.png");
+ background-size: 101%;
+  background-repeat: no-repeat;
+	 background-position: center center;
+	background-color: #d9edf7;
+	border-radius:9px;
+	width: 300px;
+	padding: 10px;
+	color: #fff;
+}
+
+ .dl {
+    border: 1px solid #fff;
+    background-color: red;
+    color: #fff;
+  }
+
+  .edt:hover {}
+
+  .cp {
+    border: 1px solid #fff;
+    margin-left: 2px;
+  }
+    .edt {
+    margin-left: -10px;
+    border-radius: 5px;
+    border: 1px solid #1880d8;
+    background-color: #1880d8;
+    color: #fff;
+  }
